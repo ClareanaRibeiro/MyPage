@@ -1,0 +1,19 @@
+{
+  "name": "mypage",
+  "version": "1.0.0",
+  "description": "Saiba onde me encontrar...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClareanaRibeiro/MyPage.git"
+  },
+  "author": "clacla.vaz.ribeiro@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ClareanaRibeiro/MyPage/issues"
+  },
+  "homepage": "https://github.com/ClareanaRibeiro/MyPage#readme"
+}
