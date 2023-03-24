@@ -34,4 +34,10 @@ h1{
     color: bisque;
     margin-right: 10vw;
     margin-top: 10vw;
+    margin-left: 2vw;
+}
+
+h2{
+    color:bisque;
+    margin-left: 2vw;
 }
